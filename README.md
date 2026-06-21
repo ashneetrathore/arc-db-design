@@ -3,7 +3,6 @@
 ## :open_book: OVERVIEW
 Date: October 2023\
 Designer(s): Ashneet Rathore, Guillermo Bolger\
-Based on assignment instructions from Prof. Mary Roth
 
 This repository presents a relational database design for the Anteater Recreation Center (ARC), a gym located on the University of California, Irvine campus. The purpose of the database is to support core gym operations such as member management, event enrollment, employee scheduling, and facility usage. The project consists of three main artifacts: an **entity relationship diagram (ERD)**, a **relational notation** document, and a **schema** implementation with a **MySQL** script. 
 
